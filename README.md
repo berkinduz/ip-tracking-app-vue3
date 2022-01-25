@@ -1,2 +1,12 @@
-# ip-tracking-app-vue3
-Ip Tracking App With VueJS 3
+
+# IP Adress Tracker App with Vue 3
+
+This application gives the location, time zone, and isp provider of the IP address entered by the user.
+
+
+### Used Technologies
+
+- VueJS 3
+- Tailwind CSS
+- Leaflet JS
+- Geolocation API
